@@ -1,0 +1,13 @@
+---
+authors:
+  - Sascha Gaspar
+dependencies:
+  "ansible.utils": ">=2.5.2"
+description:
+  Ansible Collection with an Ansible Module to manage users and groups with
+  samba-tool.
+license_file: LICENSE
+namespace: community
+readme: README.md
+tag: [users, groups, samba]
+
